@@ -1,7 +1,7 @@
+https://github.com/CristianEguia
 
-# ***Cristian Eguia***  
-🌏 Geoinformatics & Remote Sensing | 💻 GIS & Programming Analyst | 📖 Master in Remote Sensing |
-🎯 Geospatial Solutions | 🚀 RPAS Pilot
+
+# 👋 Hi, I'm Cristian Eguia
 
 🌍 **About Me**
 ---
@@ -46,3 +46,7 @@
 ---
 - 💼 LinkedIn: www.linkedin.com/in/cristian-eguia
 - 📧 Email: eguia.c@gmail.com
+
+---
+
+🌟 "Turning data into meaningful insights and innovative solutions!"
